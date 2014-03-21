@@ -11,8 +11,8 @@ var isPolyndrom = function(s){
 		return true;
 
 };
-console.log(isPolyndrom('ab'));
-console.log(isPolyndrom('a a'));
-console.log(isPolyndrom('aba'));
-console.log(isPolyndrom('bbb'));
-console.log(isPolyndrom('abab'));
+//console.log(isPolyndrom('ab'));
+//console.log(isPolyndrom('a a'));
+//console.log(isPolyndrom('aba'));
+//console.log(isPolyndrom('bbb'));
+//console.log(isPolyndrom('abab'));
